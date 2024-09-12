@@ -1,0 +1,18 @@
+# Unreal Engine specific files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.tmp
+*.log
+*.pdb
+*.suo
+*.user
+*.vs
+*.vscode
+
+# Compiled source files
+*.dll
+*.exe
+*.so
+*.dylib
